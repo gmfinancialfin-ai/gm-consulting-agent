@@ -1,0 +1,8 @@
+{
+  "name": "gm-consulting-agent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test test/handler.test.mjs" },
+  "engines": { "node": ">=22" }
+}
